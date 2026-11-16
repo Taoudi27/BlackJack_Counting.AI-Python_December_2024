@@ -1,0 +1,1 @@
+In late 2024, after watching the movie *21*, directed by Robert Luketic, I became curious about how card counting worked and how it was possible to gain an advantage in blackjack, especially back when casinos used fewer decks. I decided to explore the concept by coding an AI capable of counting cards and making strategic decisions to increase its chances of winning.
